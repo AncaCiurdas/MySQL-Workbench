@@ -7,7 +7,7 @@ I recently successfully completed an online Manual Testing course in which I gai
 Database was one of the bonus courses I studied in the manual testing course.
 What I learned?
 - I learned about relational databases; \
-- about the types of relationships; \
-- familiar with all basic instructions in SQL; \
-- I can write simple query; \
+- about the types of relationships; 
+- familiar with all basic instructions in SQL; 
+- I can write simple query; 
 - know how to use JOINS in queries;
